@@ -37,7 +37,7 @@ The dataset `food_coded.csv` was retrieved from Kaggle:
 1) Clone this repo
 
 ```bash
-  git clone https://github.com/dr-pandit-69/geolocational_data_analysis
+  git clone https://github.com/Sukt03/geonav
 ```
 
 2) Create a Virtual Environment (Highly Recommended)
