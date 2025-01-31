@@ -2,8 +2,7 @@
 
 
 ## **🔍 Description**
-GeoNav leverages geospatial data analysis and clustering techniques to provide personalized accommodation recommendations. By analyzing user preferences and apartment features, the application helps users identify suitable living options in Hyderabad.
-web application developed as part of a Data Science assignment, designed to assist new residents in Hyderabad in finding the best accommodation based on their preferences for amenities, budget, and proximity.
+GeoNav leverages geospatial data analysis and clustering techniques to provide personalized accommodation recommendations. By analyzing user preferences and apartment features, the application helps users identify suitable living options in Hyderabad. This was developed as part of my minor project, designed to assist new residents in Hyderabad in finding the best accommodation based on their preferences for amenities, budget, and proximity.
 
 ## **✨ Features**
 - **Personalized Accommodation Search:** Users can input their preferences regarding amenities, budget, and location to receive tailored accommodation suggestions.
