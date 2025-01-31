@@ -1,19 +1,18 @@
 # 🌐 GeoNav | Exploratory Analysis of Geo-location Data
-*January 2024*
 
 
 ## **🔍 Description**
 GeoNav leverages geospatial data analysis and clustering techniques to provide personalized accommodation recommendations. By analyzing user preferences and apartment features, the application helps users identify suitable living options in Hyderabad.
 web application developed as part of a Data Science assignment, designed to assist new residents in Hyderabad in finding the best accommodation based on their preferences for amenities, budget, and proximity.
 
-#### **✨ Features**
+## **✨ Features**
 - **Personalized Accommodation Search:** Users can input their preferences regarding amenities, budget, and location to receive tailored accommodation suggestions.
 - **Interactive Maps:** Visualize apartment locations and neighborhood details using the Folium API.
 - **Clustering Analysis:** Utilizes K-Means Clustering to categorize apartments based on various features.
 - **Real-time Data Rendering:** Displays dynamic graphs and visualizations to enhance user experience.
 - **User-Friendly Interface:** Built with Streamlit for an intuitive and seamless user experience.
 
-#### **🛠️ Technologies Used**
+## **🛠️ Technologies Used**
 - **Frontend:** Streamlit
 - **Backend & Data Processing:** Python
 - **Libraries & Frameworks:** 
@@ -23,7 +22,7 @@ web application developed as part of a Data Science assignment, designed to assi
 - **APIs:** Foursquare API for location-based data retrieval
 - **Other Tools:** Git/GitHub for version control
 
-#### **📈 Data Source**
+## **📈 Data Source**
 The dataset `food_coded.csv` was retrieved from Kaggle:
 - [Food Choices Data Exploration Analysis](https://www.kaggle.com/code/rafalpanasiuk/food-choices-data-exploration-analysis)
 
